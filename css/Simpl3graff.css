@@ -36,8 +36,9 @@ h1 {
 }
 
 .github {
-	width: 130%;
+	width: 45%;
 	margin: 10px auto;
+    letter-spacing: 0;
 }
 
 .signup-form h2 {
