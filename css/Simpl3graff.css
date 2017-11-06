@@ -39,6 +39,8 @@ h1 {
 	width: 45%;
 	margin: 10px auto;
     letter-spacing: 0;
+    background-color: #333538;
+	font-size: .9em;
 }
 
 .signup-form h2 {
@@ -48,11 +50,6 @@ h1 {
 
 .boton-type1, .boton-type1:hover {
 	background-color: #36A2EB;
-	font-size: .9em;
-}
-
-.boton-type2, .boton-type2:hover {
-	background-color: #333538;
 	font-size: .9em;
 }
 
